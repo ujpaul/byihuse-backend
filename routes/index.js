@@ -1,0 +1,34 @@
+import express from "express";
+const router = express.Router();
+
+router.use("/api/made-in-rwanda-products", require("./MadeInRwanda"));
+router.use("/api/product-commande", require("./Command"));
+router.use("/api/app-send-mail", require("./sendEmail"));
+router.use("/api/categories", require("./Category"));
+router.use("/api/lawyers", require("./Lawyers"));
+router.use("/api/housing", require("./Housing"));
+router.use("/api/agent", require("./Agent"));
+router.use("/api/house-renting", require("./HouseRenting"));
+router.use("/api/sonorisation", require("./Sonorisation"));
+router.use("/api/decoration-renting", require("./DecorationRenting"));
+router.use("/api/technicians", require("./Technician"));
+router.use("/api/dry-cleaner", require("./DryCleaner"));
+router.use("/api/currencies", require("./Currency"));
+router.use("/api/departments", require("./Department"));
+router.use("/api/renting", require("./Renting"));
+router.use("/api/companies", require("./Company"));
+router.use("/api/customers", require("./Customer"));
+router.use("/api/refunded-customers", require("./Refunded"));
+router.use("/api/sold-products", require("./SoldProducts"));
+router.use("/api/products", require("./Product"));
+router.use("/api/rentals", require("./Rental"));
+router.use("/api/services", require("./Service"));
+router.use("/api/carts", require("./Cart"));
+router.use("/api/wishlists", require("./Wishlist"));
+router.use("/api/orders", require("./Order"));
+router.use("/api/services-orders", require("./ServiceOrder"));
+router.use("/api/rental-orders", require("./RentalOrder"));
+router.use("/api/messages", require("./Message"));
+router.use("/api/auth", require("./User"));
+
+module.exports = router;

@@ -1,0 +1,787 @@
+[{
+  "_id": {
+    "$oid": "5f513107046d1e11a4ca88e8"
+  },
+  "featured": false,
+  "name": {
+    "en": "Alcatel Mobile Router",
+    "sw": "Alcatel Mobile Router",
+    "kiny": "Alcatel Mobile Router",
+    "fr": "Routeur mobile Alcatel"
+  },
+  "description": {
+    "en": "• OS: Windows 7/8/8.1/10 (32&64 bit) Mac OS X 10.6~10.10 (32&64 bit) PLATFORM. Qualcomm MDM9207.  • DISPLAY: LED Display  • Dimensions: 87.6 x 59.6 x 12.6mm• DATA SPEED. LTE Cat4 DL up to 150Mbps.  • BATTERY LIFE 6Hours to 12Hours• Standby time: 12 hourrs with WiFi  • 15 USERS.• BEST PRICE",
+    "sw": "• OS: Windows 7/8/8.1/10 (32&64 bit) Mac OS X 10.6~10.10 (32&64 bit) PLATFORM. Qualcomm MDM9207.  • DISPLAY: LED Display  • Dimensions: 87.6 x 59.6 x 12.6mm• DATA SPEED. LTE Cat4 DL up to 150Mbps.  • BATTERY LIFE 6Hours to 12Hours• Standby time: 12 hourrs with WiFi  • 15 USERS.• BEST PRICE",
+    "kiny": "• OS: Windows 7/8/8.1/10 (32&64 bit) Mac OS X 10.6~10.10 (32&64 bit) PLATFORM. Qualcomm MDM9207.  • DISPLAY: LED Display  • Dimensions: 87.6 x 59.6 x 12.6mm• DATA SPEED. LTE Cat4 DL up to 150Mbps.  • BATTERY LIFE 6Hours to 12Hours• Standby time: 12 hourrs with WiFi  • 15 USERS.• BEST PRICE",
+    "fr": "• OS: Windows 7/8/8.1/10 (32&64 bit) Mac OS X 10.6~10.10 (32&64 bit) PLATFORM. Qualcomm MDM9207.  • DISPLAY: LED Display  • Dimensions: 87.6 x 59.6 x 12.6mm• DATA SPEED. LTE Cat4 DL up to 150Mbps.  • BATTERY LIFE 6Hours to 12Hours• Standby time: 12 hourrs with WiFi  • 15 USERS.• BEST PRICE"
+  },
+  "category": {
+    "$oid": "5f510b95046d1e11a4ca88e6"
+  },
+  "department": {
+    "$oid": "5f510b62046d1e11a4ca88e5"
+  },
+  "company": {
+    "$oid": "5f510fd5046d1e11a4ca88e7"
+  },
+  "price": 35000,
+  "pictures": {
+    "pic1": "1599156487864.png",
+    "pic2": "1599156487866.jpeg",
+    "pic3": "1599156487868.png",
+    "pic4": "1599156487871.jpeg"
+  },
+  "createdAt": {
+    "$date": "2020-09-03T18:08:07.896Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-03T18:08:07.896Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f51336f046d1e11a4ca88e9"
+  },
+  "featured": false,
+  "name": {
+    "en": "D-link",
+    "sw": "D-link",
+    "kiny": "D-link",
+    "fr": "D-link"
+  },
+  "description": {
+    "en": "•4LTE  • upto 150Mbps(downlink)  • Up to 50Mbps(uplink)  • share a 4G LTE connection up to10 WIFI dveices  • WIRELESS N (provide high-speed connection  • 2100mAhbattery( upto 10hours usage)  •micro SD card ( to save or share photo and videos)  • Standard USB interface",
+    "sw": "• 4LTE  • hadi 150Mbps (downlink)  • Hadi 50Mbps (uplink)  • shiriki unganisho la 4G LTE hadi dawisi ya WIFI 10  • WIRELESS N (toa unganisho la kasi  • 2100mAhbattery (upto 10hours matumizi)  • kadi ndogo ya SD (kuhifadhi au kushiriki picha na video)  • Kiolesura cha kawaida cha USB",
+    "kiny": " • 4LTE  • kugeza kuri 150Mbps (downlink)  • Kugera kuri 50Mbps (uplink)  • gusangira 4G LTE ihuza kugeza kuri 10 WIFI  • WIRELESS N (tanga umurongo wihuse  • 2100mAhbattery (kugeza kumasaha 10 yo gukoresha)  • micro SD ikarita (kubika cyangwa gusangira ifoto na videwo)  • Imigaragarire ya USB isanzwe",
+    "fr": "• 4LTE  • jusqu'à 150 Mbps (liaison descendante)  • Jusqu'à 50 Mbps (liaison montante)  • partager une connexion 4G LTE jusqu'à 10 dveices WIFI  • WIRELESS N (fournit une connexion haut débit  • Batterie 2100mAh (jusqu'à 10 heures d'utilisation)  • carte micro SD (pour enregistrer ou partager des photos et des vidéos)  • Interface USB standard"
+  },
+  "category": {
+    "$oid": "5f510b95046d1e11a4ca88e6"
+  },
+  "department": {
+    "$oid": "5f510b62046d1e11a4ca88e5"
+  },
+  "company": {
+    "$oid": "5f510fd5046d1e11a4ca88e7"
+  },
+  "price": 50000,
+  "pictures": {
+    "pic1": "1599157103716.jpeg",
+    "pic2": "1599157103717.png",
+    "pic3": "1599157103718.jpeg",
+    "pic4": "1599157103719.png"
+  },
+  "createdAt": {
+    "$date": "2020-09-03T18:18:23.723Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-03T18:18:23.723Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f51000e046d1e11a4ca88e3"
+  },
+  "featured": false,
+  "name": {
+    "en": "Sprite 1L",
+    "sw": "Sprite 1L",
+    "kiny": "Sprite 1L",
+    "fr": "Sprite 1L"
+  },
+  "description": {
+    "en": "100% natural flavors. No caffeine. 140 calories per 12 fl oz serving",
+    "sw": " 100% ladha ya asili. Hakuna kafeini. Kalori 140 kwa 12 oz inayohudumia.",
+    "kiny": "ni umwimerere 100% . Nta cafeyine. Kalori 140 kuri 12 fl oz",
+    "fr": " 100% d'arômes naturels. Pas de caféine. 140 calories par portion de 12 oz liq."
+  },
+  "category": {
+    "$oid": "5f50fbec046d1e11a4ca88e2"
+  },
+  "department": {
+    "$oid": "5f50d7a3046d1e11a4ca88de"
+  },
+  "company": {
+    "$oid": "5f50f492046d1e11a4ca88e0"
+  },
+  "price": 1500,
+  "pictures": {
+    "pic1": "1599143950632.jpg",
+    "pic2": "1599143950632.jpg",
+    "pic3": "1599143950633.jpg",
+    "pic4": "1599143950634.jpg"
+  },
+  "createdAt": {
+    "$date": "2020-09-03T14:39:10.638Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-03T14:39:10.638Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f513aef2fd4ae0fa4bbb6e1"
+  },
+  "featured": false,
+  "name": {
+    "en": "4G/LTE WIFI dongle(router)",
+    "sw": "4G/LTE WIFI dongle(router)",
+    "kiny": "4G/LTE WIFI dongle(router)",
+    "fr": "Dongle WIFI 4G/LTE (routeur)"
+  },
+  "description": {
+    "en": "HUAWEI  LTE /WIFI high speed share  • SMS support  • plug and play  • LTE cat.4 support  • up to 10 users nline simmultaneously  • micro SD card slot  •standard USB card slot",
+    "sw": "HUAWEI  LTE /WIFI high speed share  • SMS support  • plug and play  • LTE cat.4 support  • up to 10 users nline simmultaneously  • micro SD card slot  •standard USB card slot",
+    "kiny": "HUAWEI  LTE /WIFI high speed share  • SMS support  • plug and play  • LTE cat.4 support  • up to 10 users nline simmultaneously  • micro SD card slot  •standard USB card slot",
+    "fr": "HUAWEI  Partage haut débit LTE / WIFI  • Prise en charge des SMS  • brancher et utiliser  • Prise en charge LTE cat.4  • jusqu'à 10 utilisateurs en ligne simultanément  • fente pour carte micro SD  • emplacement pour carte USB standard"
+  },
+  "category": {
+    "$oid": "5f510b95046d1e11a4ca88e6"
+  },
+  "department": {
+    "$oid": "5f510b62046d1e11a4ca88e5"
+  },
+  "company": {
+    "$oid": "5f510fd5046d1e11a4ca88e7"
+  },
+  "price": 30000,
+  "pictures": {
+    "pic1": "1599159023618.webp",
+    "pic2": "1599159023646.jpg",
+    "pic3": "1599159023650.webp",
+    "pic4": "1599159023651.jpg"
+  },
+  "createdAt": {
+    "$date": "2020-09-03T18:50:23.662Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-03T18:50:23.662Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f513df52fd4ae0fa4bbb6e2"
+  },
+  "featured": false,
+  "name": {
+    "en": "Redmi Go",
+    "sw": "Redmi Go",
+    "kiny": "Redmi Go",
+    "fr": "Redmi Go"
+  },
+  "description": {
+    "en": "Go Smart, Do more,Standby time 10 days  • 4G LTE Smartphone  • 5 inch HD display 1280*720 • 16 GB ROM+1 GB RAM  • 8MP Rear camera,5MP Front camera  • Qualcomm® Snapdragon SoC,Quad-Core Up to 1.4 GHz  • 3000mAh Durable battery life",
+    "sw": "Go Smart, Do more,Standby time 10 days  • 4G LTE Smartphone  • 5 inch HD display 1280*720 • 16 GB ROM+1 GB RAM  • 8MP Rear camera,5MP Front camera  • Qualcomm® Snapdragon SoC,Quad-Core Up to 1.4 GHz  • 3000mAh Durable battery life",
+    "kiny": "Go Smart, Do more,Standby time 10 days  • 4G LTE Smartphone  • 5 inch HD display 1280*720 • 16 GB ROM+1 GB RAM  • 8MP Rear camera,5MP Front camera  • Qualcomm® Snapdragon SoC,Quad-Core Up to 1.4 GHz  • 3000mAh Durable battery life",
+    "fr": "Go Smart, Do more,Standby time 10 days  • 4G LTE Smartphone  • 5 inch HD display 1280*720 • 16 GB ROM+1 GB RAM  • 8MP Rear camera,5MP Front camera  • Qualcomm® Snapdragon SoC,Quad-Core Up to 1.4 GHz  • 3000mAh Durable battery life"
+  },
+  "category": {
+    "$oid": "5f5139ac2fd4ae0fa4bbb6e0"
+  },
+  "department": {
+    "$oid": "5f510b62046d1e11a4ca88e5"
+  },
+  "company": {
+    "$oid": "5f510fd5046d1e11a4ca88e7"
+  },
+  "price": 66000,
+  "pictures": {
+    "pic1": "1599159797241.webp",
+    "pic2": "1599159797250.jpeg",
+    "pic3": "1599159797251.webp",
+    "pic4": "1599159797256.jpeg"
+  },
+  "createdAt": {
+    "$date": "2020-09-03T19:03:17.262Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-03T19:03:17.262Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f513e6f2fd4ae0fa4bbb6e3"
+  },
+  "featured": false,
+  "name": {
+    "en": " OPPO A31",
+    "sw": " OPPO A31",
+    "kiny": " OPPO A31",
+    "fr": " OPPO A31"
+  },
+  "description": {
+    "en": "•  AI triple Camera  • 4230mAh Large Battery  • 6.5”(16.5cm)  • HD + Waterdrop Screen  • 4GB/64GB",
+    "sw": "•  AI triple Camera  • 4230mAh Large Battery  • 6.5”(16.5cm)  • HD + Waterdrop Screen  • 4GB/64GB",
+    "kiny": "•  AI triple Camera  • 4230mAh Large Battery  • 6.5”(16.5cm)  • HD + Waterdrop Screen  • 4GB/64GB",
+    "fr": "•  AI triple Camera  • 4230mAh Large Battery  • 6.5”(16.5cm)  • HD + Waterdrop Screen  • 4GB/64GB"
+  },
+  "category": {
+    "$oid": "5f5139ac2fd4ae0fa4bbb6e0"
+  },
+  "department": {
+    "$oid": "5f510b62046d1e11a4ca88e5"
+  },
+  "company": {
+    "$oid": "5f510fd5046d1e11a4ca88e7"
+  },
+  "price": 170000,
+  "pictures": {
+    "pic1": "1599159919431.jpg",
+    "pic2": "1599159919432.jpg",
+    "pic3": "1599159919433.jpg",
+    "pic4": "1599159919434.jpg"
+  },
+  "createdAt": {
+    "$date": "2020-09-03T19:05:19.437Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-03T19:05:19.437Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f513f9c2fd4ae0fa4bbb6e4"
+  },
+  "featured": false,
+  "name": {
+    "en": "OPPO A9 2020",
+    "sw": "OPPO A9 2020",
+    "kiny": "OPPO A9 2020",
+    "fr": "OPPO A9 2020"
+  },
+  "description": {
+    "en": "• 48MP Ultra Wide  • Quad Camera  • Snapdragon 665  • Game Boost 2.0  • 5000mh Battery  • Dual Speakers Dolby Atmos  • 8GB/128GB",
+    "sw": "• 48MP Ultra Wide  • Quad Camera  • Snapdragon 665  • Game Boost 2.0  • 5000mh Battery  • Dual Speakers Dolby Atmos  • 8GB/128GB",
+    "kiny": "• 48MP Ultra Wide  • Quad Camera  • Snapdragon 665  • Game Boost 2.0  • 5000mh Battery  • Dual Speakers Dolby Atmos  • 8GB/128GB",
+    "fr": "• Ultra large 48MP  • Caméra Quad  • Snapdragon 665  • Game Boost 2.0  • Batterie de 5000 mh  • Deux haut-parleurs Dolby Atmos  • 8 GB / 128 GB"
+  },
+  "category": {
+    "$oid": "5f5139ac2fd4ae0fa4bbb6e0"
+  },
+  "department": {
+    "$oid": "5f510b62046d1e11a4ca88e5"
+  },
+  "company": {
+    "$oid": "5f510fd5046d1e11a4ca88e7"
+  },
+  "price": 300000,
+  "pictures": {
+    "pic1": "1599160220589.jpg",
+    "pic2": "1599160220589.jpg",
+    "pic3": "1599160220590.jpg",
+    "pic4": "1599160220591.jpg"
+  },
+  "createdAt": {
+    "$date": "2020-09-03T19:10:20.596Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-03T19:10:20.596Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5142082fd4ae0fa4bbb6e5"
+  },
+  "featured": false,
+  "name": {
+    "en": "Coca cola 1.5L",
+    "sw": "Coca cola 1.5L",
+    "kiny": "Coca cola 1.5L",
+    "fr": "Coca cola 1.5L"
+  },
+  "description": {
+    "en": "Coca cola 1.5L is a good drink certified by coco cola international ",
+    "sw": " Coca cola 1.5L ni kinywaji kizuri kinachothibitishwa na coco cola kimataifa",
+    "kiny": "Coca cola 1.5L ni ikinyobwa cyiza cyemejwe na coco cola mpuzamahanga",
+    "fr": " Coca Cola 1.5L est une bonne boisson certifiée par Coco Cola International"
+  },
+  "category": {
+    "$oid": "5f50fbec046d1e11a4ca88e2"
+  },
+  "department": {
+    "$oid": "5f50d7a3046d1e11a4ca88de"
+  },
+  "company": {
+    "$oid": "5f50f492046d1e11a4ca88e0"
+  },
+  "price": 1500,
+  "pictures": {
+    "pic1": "1599160840321.png",
+    "pic2": "1599160840327.jpg",
+    "pic3": "1599160840328.jpg",
+    "pic4": "1599160840329.png"
+  },
+  "createdAt": {
+    "$date": "2020-09-03T19:20:40.338Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-03T19:20:40.338Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f56b66df6f70721309c6fbf"
+  },
+  "featured": false,
+  "name": {
+    "en": "SIKA Boom (114 multi purpose)",
+    "sw": "SIKA Boom (114 multi purpose)",
+    "kiny": "SIKA Boom (114 multi purpose)",
+    "fr": "SIKA Boom (114 multi purpose)"
+  },
+  "description": {
+    "en": "Net content 750ml/650g,  Made in UAE",
+    "sw": "Yaliyomo750ml / 650g, Imetengenezwa  katika  UAE",
+    "kiny": "Ibirimo neza 750ml / 650g, Byakorewe muri  UAE",
+    "fr": "Contenu net 750 ml / 650 g, Fabriqué aux EAU"
+  },
+  "category": {
+    "$oid": "5f56b4d1f6f70721309c6fbe"
+  },
+  "department": {
+    "$oid": "5f56ac19f6f70721309c6fbd"
+  },
+  "company": {
+    "$oid": "5f50f492046d1e11a4ca88e0"
+  },
+  "price": 34000,
+  "pictures": {
+    "pic1": "1599518317365.jpg",
+    "pic2": "1599518317427.jpg",
+    "pic3": "1599518317456.jpg",
+    "pic4": "1599518317481.jpg"
+  },
+  "createdAt": {
+    "$date": "2020-09-07T22:38:37.502Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-07T22:38:37.502Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f56b7cff6f70721309c6fc0"
+  },
+  "featured": false,
+  "name": {
+    "en": "SIKA SIL(universal silicone) 116GP",
+    "sw": "SIKA SIL(universal silicone) 116GP",
+    "kiny": "SIKA SIL(universal silicone) 116GP",
+    "fr": "SIKA SIL(universal silicone) 116GP"
+  },
+  "description": {
+    "en": "Net content 280ml, Made in UAE",
+    "sw": "Yaliyomo 280ml, Imetengenezwa katika UAE",
+    "kiny": "Ibirimo 280ml, Byakorewe muri UAE",
+    "fr": "Contenu net 280 ml, Fabriqué aux EAU"
+  },
+  "category": {
+    "$oid": "5f56b4d1f6f70721309c6fbe"
+  },
+  "department": {
+    "$oid": "5f56ac19f6f70721309c6fbd"
+  },
+  "company": {
+    "$oid": "5f50f492046d1e11a4ca88e0"
+  },
+  "price": 12000,
+  "pictures": {
+    "pic1": "1599518671519.jpg",
+    "pic2": "1599518671546.jpg",
+    "pic3": "1599518671568.jpg",
+    "pic4": "1599518671583.jpg"
+  },
+  "createdAt": {
+    "$date": "2020-09-07T22:44:31.599Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-07T22:44:31.599Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f56b8bff6f70721309c6fc1"
+  },
+  "featured": false,
+  "name": {
+    "en": "SIKA primer -3N",
+    "sw": "SIKA primer -3N",
+    "kiny": "SIKA primer -3N",
+    "fr": "SIKA primer -3N"
+  },
+  "description": {
+    "en": "Net content 1000ml, Made in Switzerland",
+    "sw": "Yaliyomo 1000ml, Imetengenezwa Uswizi",
+    "kiny": "Ibirimo1000ml, Byakorewe mu Busuwisi",
+    "fr": "Contenu net 1000ml, Fabriqué en Suisse"
+  },
+  "category": {
+    "$oid": "5f56b4d1f6f70721309c6fbe"
+  },
+  "department": {
+    "$oid": "5f56ac19f6f70721309c6fbd"
+  },
+  "company": {
+    "$oid": "5f50f492046d1e11a4ca88e0"
+  },
+  "price": null,
+  "pictures": {
+    "pic1": "1599518911855.jpg",
+    "pic2": "1599518911878.jpg",
+    "pic3": "1599518911921.jpg",
+    "pic4": "1599518911960.jpg"
+  },
+  "createdAt": {
+    "$date": "2020-09-07T22:48:31.985Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-07T22:48:31.985Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5f60183fb7b3b74ea40b12"
+  },
+  "featured": false,
+  "name": {
+    "en": "AGASHYA PASSION SQUASH",
+    "sw": "AGASHYA PASSION SQUASH",
+    "kiny": "AGASHYA PASSION SQUASH",
+    "fr": "AGASHYA PASSION SQUASH"
+  },
+  "description": {
+    "en": "Net content 1L",
+    "sw": "Yaliyomo 1L",
+    "kiny": "Irimo 1L",
+    "fr": "Contenu net 1L"
+  },
+  "category": {
+    "$oid": "5f5f5f553fb7b3b74ea40b11"
+  },
+  "department": {
+    "$oid": "5f50d7a3046d1e11a4ca88de"
+  },
+  "company": {
+    "$oid": "5f5f4bf93fb7b3b74ea40b10"
+  },
+  "price": 4500,
+  "pictures": {
+    "pic1": "1600086040144.png",
+    "pic2": "1600086040184.png",
+    "pic3": "1600086040208.png",
+    "pic4": "1600086040255.png"
+  },
+  "createdAt": {
+    "$date": "2020-09-14T12:20:40.328Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-14T12:20:40.328Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f5f60eb3fb7b3b74ea40b13"
+  },
+  "featured": false,
+  "name": {
+    "en": "Agashya STRAWBERRY SQUASH",
+    "sw": "Agashya STRAWBERRY SQUASH",
+    "kiny": "Agashya STRAWBERRY SQUASH",
+    "fr": "Agashya STRAWBERRY SQUASH"
+  },
+  "description": {
+    "en": "Net content 1L",
+    "sw": "Yaliyomo 1L",
+    "kiny": "Irimo 1L",
+    "fr": "Contenu net 1L"
+  },
+  "category": {
+    "$oid": "5f5f5f553fb7b3b74ea40b11"
+  },
+  "department": {
+    "$oid": "5f50d7a3046d1e11a4ca88de"
+  },
+  "company": {
+    "$oid": "5f5f4bf93fb7b3b74ea40b10"
+  },
+  "price": 3000,
+  "pictures": {
+    "pic1": "1600086251309.png",
+    "pic2": "1600086251333.png",
+    "pic3": "1600086251387.png",
+    "pic4": "1600086251412.png"
+  },
+  "createdAt": {
+    "$date": "2020-09-14T12:24:11.476Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-14T12:24:11.476Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f63b8cb80eb4c51421d711f"
+  },
+  "featured": false,
+  "name": {
+    "en": "AKARABO",
+    "sw": "AKARABO",
+    "kiny": "AKARABO",
+    "fr": "AKARABO"
+  },
+  "description": {
+    "en": "Net content 12pcs, Ingredients: Wheat flour, Eggs, Sugar, Butter, Bicarbonate, Flavor",
+    "sw": " Yaliyomo 12pcs, Viungo: Unga wa ngano, mayai, sukari, siagi, bikaboneti, ladha",
+    "kiny": "Ibirimo  12 pcs Ibigize: ifu y'ingano, amagi, isukari, amavuta, Bicarbonate, uburyohe",
+    "fr": "Contenu net 12pcs,  Ingrédients: farine de blé, œufs, sucre, beurre, bicarbonate, arôme"
+  },
+  "category": {
+    "$oid": "5f5f5f553fb7b3b74ea40b11"
+  },
+  "department": {
+    "$oid": "5f50d7a3046d1e11a4ca88de"
+  },
+  "company": {
+    "$oid": "5f5f4bf93fb7b3b74ea40b10"
+  },
+  "price": "1000",
+  "pictures": {
+    "pic1": "1600370891383.png",
+    "pic2": "1600370891413.png",
+    "pic3": "1600370891432.png",
+    "pic4": "1600370891451.png"
+  },
+  "createdAt": {
+    "$date": "2020-09-17T19:28:11.511Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-17T19:28:11.511Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f63b98a80eb4c51421d7120"
+  },
+  "featured": null,
+  "category": {
+    "$oid": "5f638a6080eb4c51421d711e"
+  },
+  "department": {
+    "$oid": "5f50d7a3046d1e11a4ca88de"
+  },
+  "company": null,
+  "price": null,
+  "pictures": {
+    "pic1": "1600371082696.jpg",
+    "pic2": "1600371082718.jpg",
+    "pic3": "1600371082726.jpg",
+    "pic4": "1600371082729.jpg"
+  },
+  "createdAt": {
+    "$date": "2020-09-17T19:31:22.814Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-17T20:44:28.331Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f63bb0280eb4c51421d7121"
+  },
+  "featured": false,
+  "name": {
+    "en": "Heineken",
+    "sw": "Heineken",
+    "kiny": "Heineken",
+    "fr": "Heineken"
+  },
+  "description": {
+    "en": "Net Content: 33cl",
+    "sw": "Yaliyomo: 33cl",
+    "kiny": "Ibirimo: 33cl",
+    "fr": "Contenu Net: 33cl"
+  },
+  "category": {
+    "$oid": "5f638a6080eb4c51421d711e"
+  },
+  "department": {
+    "$oid": "5f50d7a3046d1e11a4ca88de"
+  },
+  "company": {
+    "$oid": "5f5f4bcb3fb7b3b74ea40b0f"
+  },
+  "price": 800,
+  "pictures": {
+    "pic1": "1600371458155.jpg",
+    "pic2": "1600371458172.jpg",
+    "pic3": "1600371458173.jpg",
+    "pic4": "1600371458180.jpg"
+  },
+  "createdAt": {
+    "$date": "2020-09-17T19:37:38.215Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-17T19:37:38.215Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f63bcad80eb4c51421d7122"
+  },
+  "featured": false,
+  "name": {
+    "en": "Legend",
+    "sw": "Legend",
+    "kiny": "Legend",
+    "fr": "Legend"
+  },
+  "description": {
+    "en": "Net Content: 33cl",
+    "sw": "yaliyomo: 33cl",
+    "kiny": "Ibirimo: 33cl",
+    "fr": "contenu Net: 33cl"
+  },
+  "category": {
+    "$oid": "5f638a6080eb4c51421d711e"
+  },
+  "department": {
+    "$oid": "5f50d7a3046d1e11a4ca88de"
+  },
+  "company": {
+    "$oid": "5f5f4bcb3fb7b3b74ea40b0f"
+  },
+  "price": 600,
+  "pictures": {
+    "pic1": "1600371885448.jpg",
+    "pic2": "1600371885464.jpg",
+    "pic3": "1600371885480.jpg",
+    "pic4": "1600371885488.jpg"
+  },
+  "createdAt": {
+    "$date": "2020-09-17T19:44:45.532Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-17T19:44:45.532Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f63befc80eb4c51421d7123"
+  },
+  "featured": false,
+  "name": {
+    "en": "Mutzig Small",
+    "sw": "Mutzig ndogo",
+    "kiny": "Mutzig Ntoya",
+    "fr": "Petit Mutzig"
+  },
+  "description": {
+    "en": "Net Content: 33cl",
+    "sw": "yaliyomo: 33cl",
+    "kiny": "Ibirimo: 33cl",
+    "fr": "contenu Net: 33cl"
+  },
+  "category": {
+    "$oid": "5f638a6080eb4c51421d711e"
+  },
+  "department": {
+    "$oid": "5f50d7a3046d1e11a4ca88de"
+  },
+  "company": {
+    "$oid": "5f5f4bcb3fb7b3b74ea40b0f"
+  },
+  "price": 500,
+  "pictures": {
+    "pic1": "1600372476506.jpg",
+    "pic2": "1600372476523.jpg",
+    "pic3": "1600372476531.jpg",
+    "pic4": "1600372476547.jpg"
+  },
+  "createdAt": {
+    "$date": "2020-09-17T19:54:36.579Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-17T19:54:36.579Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f63bff980eb4c51421d7124"
+  },
+  "featured": false,
+  "name": {
+    "en": "Mutzig Class",
+    "sw": "Mutzig Class",
+    "kiny": "Mutzig Class",
+    "fr": "Mutzig Class"
+  },
+  "description": {
+    "en": "Net Content: 33cl",
+    "sw": "yaliyomo: 33cl",
+    "kiny": "ibirimo: 33cl",
+    "fr": "contenu net: 33cl"
+  },
+  "category": {
+    "$oid": "5f638a6080eb4c51421d711e"
+  },
+  "department": {
+    "$oid": "5f50d7a3046d1e11a4ca88de"
+  },
+  "company": {
+    "$oid": "5f5f4bcb3fb7b3b74ea40b0f"
+  },
+  "price": 500,
+  "pictures": {
+    "pic1": "1600372729284.jpg",
+    "pic2": "1600372729297.jpg",
+    "pic3": "1600372729309.jpg",
+    "pic4": "1600372729330.jpg"
+  },
+  "createdAt": {
+    "$date": "2020-09-17T19:58:49.377Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-17T19:58:49.377Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f63c0de80eb4c51421d7125"
+  },
+  "featured": false,
+  "name": {
+    "en": "Mutzig Large",
+    "sw": "Mutzig kubwa",
+    "kiny": "Mutzig Nini",
+    "fr": "Large Mutzig"
+  },
+  "description": {
+    "en": "Net Content: 65cl",
+    "sw": "yaliyomo: 65cl",
+    "kiny": "ibirimo: 65cl",
+    "fr": "contenu net: 65cl"
+  },
+  "category": {
+    "$oid": "5f638a6080eb4c51421d711e"
+  },
+  "department": {
+    "$oid": "5f50d7a3046d1e11a4ca88de"
+  },
+  "company": {
+    "$oid": "5f5f4bcb3fb7b3b74ea40b0f"
+  },
+  "price": 1000,
+  "pictures": {
+    "pic1": "1600372958455.jpg",
+    "pic2": "1600372958478.jpg",
+    "pic3": "1600372958480.jpg",
+    "pic4": "1600372958481.jpg"
+  },
+  "createdAt": {
+    "$date": "2020-09-17T20:02:38.507Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-17T20:02:38.507Z"
+  },
+  "__v": 0
+}]
