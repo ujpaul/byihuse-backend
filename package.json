@@ -8,7 +8,7 @@
     "dev": "nodemon --require babel-core/register --require babel-polyfill app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "odilo",
+  "author": "paul",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.26.3",
@@ -26,7 +26,7 @@
     "flutterwave-node": "^1.2.2",
     "flutterwave-node-v3": "^1.0.9",
     "fs": "0.0.1-security",
-    "got": "^11.5.2",
+    "got": "^11.8.5",
     "handlebars": "^4.7.7",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.10.0",
